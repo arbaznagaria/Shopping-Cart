@@ -1,0 +1,26 @@
+body
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+.navbar
+{
+    background-color: lightgrey;
+}
+.dropleft i 
+{
+    font-size: 25px;
+}
+.dropdown-menu
+{
+    width: 60vw;
+    background-color: #FAE8E5;
+}
+.card img
+{
+    height: 350px;
+    width: 100%;
+}
+#items-count
+{
+    font-weight: 900;
+}
